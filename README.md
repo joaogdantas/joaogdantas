@@ -10,13 +10,14 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/joaogdantass">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaogdantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdantass&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/joaogdantas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaogdantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Joao-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/c-original.svg">
  </div>
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   
 
