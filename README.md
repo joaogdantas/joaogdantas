@@ -5,6 +5,7 @@
 Desenvolvedor backend, especializado em Java e Spring Framework, com conhecimentos de DevOps. Formando em Tecnologia da Informação. Busco sempre desenvolver códigos não apenas funcionais, mas também facilmente compreensíveis e bem organizados, aplicando princípios de clean code e clean architecture e boas práticas de desenvolvimento como SOLID, por exemplo. Possuo conhecimento em metodologias como DDD, TDD para testes de software, além de experiência com desenvolvimento ágil. Além de habilidades técnicas, acredito que eu possua as chamadas "softskills", podendo destacar: Trabalho em equipe rápido aprendizado, comunicação, criatividade e capacidade de liderança.
 
 :desktop_computer: Conhecimento Técnico <br />
+------------------
 <img align="center" alt="Joao-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <br />
 <img align="center" alt="Joao-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br />
 <img align="center" alt="Joao-AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br />
