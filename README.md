@@ -2,7 +2,15 @@
   <a href="https://wa.me/5584981345151" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaogdantas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-Desenvolvedor backend, especializado em Java e Spring Framework, com conhecimentos de DevOps. Formando em Tecnologia da Informação. Busco sempre desenvolver códigos não apenas funcionais, mas também facilmente compreensíveis e bem organizados, aplicando princípios de clean code e clean architecture e boas práticas de desenvolvimento como SOLID, por exemplo. Possuo conhecimento em metodologias como DDD, TDD para testes de software, além de experiência com desenvolvimento ágil. Além de habilidades técnicas, acredito que eu possua as chamadas "softskills", podendo destacar: Trabalho em equipe rápido aprendizado, comunicação, criatividade e capacidade de liderança.
+Formando em Tecnologia da Informação, especializado em backend com mais experiência em Java.
+
+Busco sempre desenvolver códigos não apenas funcionais, mas também facilmente compreensíveis e bem organizados, aplicando princípios de clean code e clean architecture. Também já trabalhei com testes, metodologias como TDD e DDD, além de serviços de mensageria como Apache Kafka.
+
+Tenho experiência com AWS, incluindo a utilização de diversos serviços para construção de soluções escaláveis e seguras. Também possuo conhecimentos de Docker e Kubernetes, além de integração e entrega contínua (CI/CD), bancos de dados relacionais SQL, bancos de dados NoSQL e vivência com desenvolvimento ágil.
+
+Além de habilidades técnicas, acredito que eu possua as chamadas "soft skills", podendo destacar: Trabalho em equipe, rápido aprendizado, comunicação, criatividade e capacidade de liderança.
+
+Apesar de possuir mais experiência em tecnologias como Java e Spring, estou aberto e entusiasmado para trabalhar com outras tecnologias, buscando constantemente expandir meu conhecimento e contribuir para projetos diversos.
 
 :desktop_computer: Conhecimento Técnico <br />
 ------------------
