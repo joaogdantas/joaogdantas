@@ -15,8 +15,6 @@ Além das habilidades técnicas, me considero proativo, adaptável e trabalho be
 <img align="center" alt="Joao-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <br />
 <img align="center" alt="Joao-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br />
 <img align="center" alt="Joao-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><br />
-<img align="center" alt="Joao-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br />
-<img align="center" alt="Joao-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br />
 <img align="center" alt="Joao-PostgreSQL" src="https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"><br />
 
 :man_student: Acadêmico <br />
